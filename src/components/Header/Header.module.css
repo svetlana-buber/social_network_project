@@ -1,0 +1,20 @@
+.header {
+    grid-area: h;
+    background-color: gold;
+}
+
+.imgLogo{
+    display: inline
+}
+
+.header img {
+
+    width: 90px;
+    margin: 30px;
+}
+
+.loginBlock {
+    float: right;
+    margin: 40px auto; 
+    margin-right: 40px;
+}

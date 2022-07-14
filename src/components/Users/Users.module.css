@@ -1,0 +1,16 @@
+.users {
+    margin: 20px;
+}
+
+.users img{
+    /* width: 50px; */
+    height: 60px;
+}
+
+.oneUser {
+    margin: 20px;
+}
+
+.currentNumber {
+    font-weight: bolder;
+}
